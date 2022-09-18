@@ -1,0 +1,4 @@
+In python you can manipulate files.
+In python you can use oop patterns.
+In python you can use loops.
+In python you can do everything.
